@@ -1,0 +1,10 @@
+.section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 40px;
+
+}
+.title{
+    text-shadow: 2px 1px 11px rgba(0, 0, 0, 0.6);
+}

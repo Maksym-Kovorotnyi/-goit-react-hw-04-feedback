@@ -1,0 +1,22 @@
+.text{
+    font-size: 15px;
+        letter-spacing: 0.6px;
+        word-spacing: -1.4px;
+        color: #000000;
+        font-weight: normal;
+        text-decoration: none solid rgb(68, 68, 68);
+        font-style: normal;
+        font-variant: normal;
+        text-transform: none;
+        
+}
+
+.text.good{
+    color: rgb(0, 241, 0);
+}
+.text.neutral{
+    color: rgb(186, 186, 71);
+}
+.text.bad{
+    color: red;
+}
